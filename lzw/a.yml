@@ -1,0 +1,41 @@
+password-vault:
+
+  - entry: 'doge.com'
+    user: 'doge'
+    password: 'MuchSucratz!'
+
+  - entry: 'amazon.com'
+    user: 'Your Momma'
+    password: '123456789Abcd'
+
+  - entry: 'super-important-site.com'
+    user: 'someGuy@email.not'
+    password: '"SuperLongPasswordLikelyMadeFromDICELIStorSomeSHIT'
+
+  - entry: 'evil-bank.com'
+    user: 'UnsuspectingVictim'
+    password: '!.SomeSpecial%Chars'
+
+  - entry: 'giggle.io'
+    user: 'tech.hipster@giggle.io'
+    password: 'JKLAS80984jhCKJH@#*'
+
+  - entry: 'FacePage'
+    user: "Bud.Hertz"
+    password: "3mfuUyT>!jdsiIDSIAOEJcjlksdjoqdjCIOWIUC"
+
+  - entry: 'TwatR'
+    user: 'Bud-Hertz'
+    password: "KJDASDjsalkdjwiLSJDiwudLCJIWDJALcJLKWi"
+
+  - entry: 'gethub.com'
+    user: 'bhertz@giggle.io'
+    password: 'DASeevIjoiImaCkIlomipTerSivCam'
+
+  - entry: 'linux login'
+    user: bud
+    password: 'PoopFace69'
+
+  - entry: 'server private key'
+    user:
+    password: '911WasAnInsideJobByReptillians'
